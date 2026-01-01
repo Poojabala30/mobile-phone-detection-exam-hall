@@ -1,5 +1,3 @@
-<DOCTYPE html>
-<html>
 opencv-python
 ultralytics
 numpy
